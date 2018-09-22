@@ -1,0 +1,26 @@
+_repo: Lakiasia-Naytelma-kolmessa-naytoksessa_54362
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Karikko, Kaarle
+    alias: Kario
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '33244'
+    url: http://www.gutenberg.org/2009/agents/33244
+    wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Karikko
+description: ''
+gutenberg_issued: '2017-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54362'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Lakiasia: Näytelmä kolmessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/54362
